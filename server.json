@@ -1,0 +1,7 @@
+{"servers": [
+        {"name": "default",
+		 "ip": "localhost",
+		 "port": 6600,
+		 "pass": -1
+		 }
+]}
